@@ -328,3 +328,6 @@ pixiedust.buzzfeed.com
 yllix.com
 trackcmp.net
 app.appsflyer.com
+www.w3counter.com
+gs.statcounter.com
+statcounter.com
